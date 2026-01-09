@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Ayush Agarwal 👋</h1>
   
-  <h3>Full Stack Developer | MERN Stack & Next.js | Java DSA</h3>
+  <h3>Java Full Stack Developer | React & Spring Boot | Java DSA</h3>
 
   <p>
     Final year B.Tech IT student at <b>AKGEC, Ghaziabad</b>. <br>
@@ -41,8 +41,9 @@ I focus on data structures in **Java** and full-stack development using the **ME
 <br />
 
 
+
 ### ⚡ Activity
-* 🔭 I’m currently working on advanced **Microservices architecture**.
+* 👨‍💻 I’m actively solving **Data Structures & Algorithms** in **Java** on LeetCode/GFG.
 * 🌱 I’m currently learning **System Design** and **Cloud Native tools**.
 * 💬 Ask me about **Java, React, or Data Structures**.
 

@@ -27,7 +27,7 @@
 
 ### 🛠️ Languages & Technologies
 
-I focus on data structures in **Java** and full-stack development using the **MERN** ecosystem.
+I focus on data structures in **Java** and full-stack development using the **React, Spring Boot and PostgreSQL** ecosystem.
 
 | Category | Skills |
 | :--- | :--- |

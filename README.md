@@ -33,9 +33,9 @@ I focus on data structures in **Java** and full-stack development using the **Re
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=java,c,js,ts" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=,docker,git" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode" /> |
 
 <br />

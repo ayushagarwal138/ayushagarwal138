@@ -35,7 +35,7 @@ I focus on data structures in **Java** and full-stack development using the **Re
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=spring" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=,docker,git" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode" /> |
 
 <br />

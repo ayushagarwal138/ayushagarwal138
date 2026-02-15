@@ -32,9 +32,9 @@ I focus on data structures in **Java** and full-stack development using the **Re
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=java,c,js,ts" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=spring" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode" /> |
 
